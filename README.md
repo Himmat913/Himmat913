@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himmat913
+- 👋 Hi, I’m Himmatveer Kaur
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning Web Development 
 
